@@ -1,8 +1,0 @@
-# Welcome to KuroiYFetch YouTube Downloader
-
-A simple open-source Python Tkinter GUI for searching and downloading YouTube videos/audio.
-Also you can download bulk vides/audio if you want
-
-# requirements
-Install the required Python package:
-pip install -r requirements.txt
