@@ -47,3 +47,23 @@ KuroiYFetch/
 │
 ├── songs.txt
 └── playlist.txt
+
+```
+⚠️ Copyright & Legal Notice
+
+KuroiYFetch is intended for educational and personal use.
+
+Users are responsible for ensuring that their use of this software
+complies with applicable copyright laws, the terms of service of
+YouTube, and the rights of content owners.
+
+Do not use this software to download, reproduce, distribute, or
+otherwise use copyrighted material without appropriate permission or
+authorization.
+
+The developer does not encourage or endorse copyright infringement.
+
+Downloading content may be restricted depending on the content,
+your location, and the applicable terms and laws. Please use this
+software responsibly and only download content that you have the
+right or permission to download.
